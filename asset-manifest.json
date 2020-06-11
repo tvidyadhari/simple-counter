@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tvidyadhari.github.io/simple-counter/static/css/main.7a3ecdf1.chunk.css",
-    "main.js": "/tvidyadhari.github.io/simple-counter/static/js/main.26e81004.chunk.js",
-    "main.js.map": "/tvidyadhari.github.io/simple-counter/static/js/main.26e81004.chunk.js.map",
-    "runtime-main.js": "/tvidyadhari.github.io/simple-counter/static/js/runtime-main.feaa82dc.js",
-    "runtime-main.js.map": "/tvidyadhari.github.io/simple-counter/static/js/runtime-main.feaa82dc.js.map",
-    "static/js/2.ee3666a3.chunk.js": "/tvidyadhari.github.io/simple-counter/static/js/2.ee3666a3.chunk.js",
-    "static/js/2.ee3666a3.chunk.js.map": "/tvidyadhari.github.io/simple-counter/static/js/2.ee3666a3.chunk.js.map",
-    "index.html": "/tvidyadhari.github.io/simple-counter/index.html",
-    "precache-manifest.91694888291b3203845a96dd498ab51a.js": "/tvidyadhari.github.io/simple-counter/precache-manifest.91694888291b3203845a96dd498ab51a.js",
-    "service-worker.js": "/tvidyadhari.github.io/simple-counter/service-worker.js",
-    "static/css/main.7a3ecdf1.chunk.css.map": "/tvidyadhari.github.io/simple-counter/static/css/main.7a3ecdf1.chunk.css.map",
-    "static/js/2.ee3666a3.chunk.js.LICENSE.txt": "/tvidyadhari.github.io/simple-counter/static/js/2.ee3666a3.chunk.js.LICENSE.txt"
+    "main.css": "/simple-counter/static/css/main.7a3ecdf1.chunk.css",
+    "main.js": "/simple-counter/static/js/main.26e81004.chunk.js",
+    "main.js.map": "/simple-counter/static/js/main.26e81004.chunk.js.map",
+    "runtime-main.js": "/simple-counter/static/js/runtime-main.b1a175e9.js",
+    "runtime-main.js.map": "/simple-counter/static/js/runtime-main.b1a175e9.js.map",
+    "static/js/2.ee3666a3.chunk.js": "/simple-counter/static/js/2.ee3666a3.chunk.js",
+    "static/js/2.ee3666a3.chunk.js.map": "/simple-counter/static/js/2.ee3666a3.chunk.js.map",
+    "index.html": "/simple-counter/index.html",
+    "precache-manifest.700f44b199f1f181151267c73c384b63.js": "/simple-counter/precache-manifest.700f44b199f1f181151267c73c384b63.js",
+    "service-worker.js": "/simple-counter/service-worker.js",
+    "static/css/main.7a3ecdf1.chunk.css.map": "/simple-counter/static/css/main.7a3ecdf1.chunk.css.map",
+    "static/js/2.ee3666a3.chunk.js.LICENSE.txt": "/simple-counter/static/js/2.ee3666a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.feaa82dc.js",
+    "static/js/runtime-main.b1a175e9.js",
     "static/js/2.ee3666a3.chunk.js",
     "static/css/main.7a3ecdf1.chunk.css",
     "static/js/main.26e81004.chunk.js"
