@@ -1,3 +1,7 @@
+did a simple counter app to test out react and github hosting
+https://tvidyadhari.github.io/simple-counter/
+<hr/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
