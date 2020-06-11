@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tvidyadhari/simple-counter/static/css/main.7a3ecdf1.chunk.css",
-    "main.js": "/tvidyadhari/simple-counter/static/js/main.26e81004.chunk.js",
-    "main.js.map": "/tvidyadhari/simple-counter/static/js/main.26e81004.chunk.js.map",
-    "runtime-main.js": "/tvidyadhari/simple-counter/static/js/runtime-main.342070dc.js",
-    "runtime-main.js.map": "/tvidyadhari/simple-counter/static/js/runtime-main.342070dc.js.map",
-    "static/js/2.ee3666a3.chunk.js": "/tvidyadhari/simple-counter/static/js/2.ee3666a3.chunk.js",
-    "static/js/2.ee3666a3.chunk.js.map": "/tvidyadhari/simple-counter/static/js/2.ee3666a3.chunk.js.map",
-    "index.html": "/tvidyadhari/simple-counter/index.html",
-    "precache-manifest.ddf1f7fbedcafb8828dc90e89e5d0c50.js": "/tvidyadhari/simple-counter/precache-manifest.ddf1f7fbedcafb8828dc90e89e5d0c50.js",
-    "service-worker.js": "/tvidyadhari/simple-counter/service-worker.js",
-    "static/css/main.7a3ecdf1.chunk.css.map": "/tvidyadhari/simple-counter/static/css/main.7a3ecdf1.chunk.css.map",
-    "static/js/2.ee3666a3.chunk.js.LICENSE.txt": "/tvidyadhari/simple-counter/static/js/2.ee3666a3.chunk.js.LICENSE.txt"
+    "main.css": "/tvidyadhari.github.io/simple-counter/static/css/main.7a3ecdf1.chunk.css",
+    "main.js": "/tvidyadhari.github.io/simple-counter/static/js/main.26e81004.chunk.js",
+    "main.js.map": "/tvidyadhari.github.io/simple-counter/static/js/main.26e81004.chunk.js.map",
+    "runtime-main.js": "/tvidyadhari.github.io/simple-counter/static/js/runtime-main.feaa82dc.js",
+    "runtime-main.js.map": "/tvidyadhari.github.io/simple-counter/static/js/runtime-main.feaa82dc.js.map",
+    "static/js/2.ee3666a3.chunk.js": "/tvidyadhari.github.io/simple-counter/static/js/2.ee3666a3.chunk.js",
+    "static/js/2.ee3666a3.chunk.js.map": "/tvidyadhari.github.io/simple-counter/static/js/2.ee3666a3.chunk.js.map",
+    "index.html": "/tvidyadhari.github.io/simple-counter/index.html",
+    "precache-manifest.91694888291b3203845a96dd498ab51a.js": "/tvidyadhari.github.io/simple-counter/precache-manifest.91694888291b3203845a96dd498ab51a.js",
+    "service-worker.js": "/tvidyadhari.github.io/simple-counter/service-worker.js",
+    "static/css/main.7a3ecdf1.chunk.css.map": "/tvidyadhari.github.io/simple-counter/static/css/main.7a3ecdf1.chunk.css.map",
+    "static/js/2.ee3666a3.chunk.js.LICENSE.txt": "/tvidyadhari.github.io/simple-counter/static/js/2.ee3666a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.342070dc.js",
+    "static/js/runtime-main.feaa82dc.js",
     "static/js/2.ee3666a3.chunk.js",
     "static/css/main.7a3ecdf1.chunk.css",
     "static/js/main.26e81004.chunk.js"
